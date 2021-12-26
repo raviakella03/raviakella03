@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Java, Angular, AWS, DevOps, Python
 - 🌱 I’m currently learning ... ReactJs, ETL, AWS
 - 💞️ I’m looking to collaborate on ... Cloud/Non-Cloud - Java , Angular, Shell Scripting and Python Projects
-- 📫 How to reach me ... raviakella03@gmail.com with Subject: "COLLABORATION - GitHub - <<Git Hub Profile>> - <<Project Title>>"
+- 📫 How to reach me ... raviakella03@outlook.com with Subject: "COLLABORATION - GitHub - <<Git Hub Profile>> - <<Project Title>>"
 - P.S.: Any mail for collaboration with the subjet other than the mentioned will not be considered.
 
 <!---
